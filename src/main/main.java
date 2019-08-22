@@ -10,6 +10,7 @@ public class main {
     public static void Main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String userName = scanner.nextLine().trim();
+        System.out.println("Welcome" + userName + "!");
         scanner.close();
 
     }
