@@ -6,6 +6,8 @@ package main;
  */
 public class main {
     public static void Main(String[] args) {
+        String userName = "";
+
 
     }
 }
